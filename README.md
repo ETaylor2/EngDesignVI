@@ -5,12 +5,15 @@ Here you can find all things related to E 322
 
 My Project Site can be found [here!](https://sites.google.com/stevens.edu/first-site/home)
 ## Assignments
-(Coming soon)
+
+  Lab 1
+  * Files
+  * Progression
 
 ## Group Members
 - El Taylor 
-- TBD 
-- TBD 
+- Yazan Sanadiki
+- Bryan Feighner
 
 ### Stevens Pledge
 I pledge by my honor that I have abided by the Stevens Code of Honor
