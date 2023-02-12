@@ -6,9 +6,9 @@ Here you can find all things related to E 322
 My Project Site can be found [here!](https://sites.google.com/stevens.edu/first-site/home)
 ## Assignments
 
-  Lab 1
-  * Files
-  * Progression
+  [Lab 1](https://github.com/ETaylor2/EngDesignVI/blob/main/Lab_1.md)
+  
+  
 
 ## Group Members
 - El Taylor 
