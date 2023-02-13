@@ -11,3 +11,10 @@ Admittedly, I intially attempted to do the lab without downloading the required 
 The first step towards any new program is the "Hello World" function, to which I followed easily with this result: 
 
 <img width="584" alt="Screenshot 2023-02-12 at 1 30 31 PM" src="https://user-images.githubusercontent.com/98351265/218359089-fbe51f3a-0103-40f9-b8e3-9810c851f795.png">
+
+
+## Half-Adder
+
+After completing the Hello World project, I decided to move onto the Half-Adder example. My first attempt led to the below screenshot.
+
+<img width="800" alt="Screenshot 2023-02-12 at 1 24 25 PM" src="https://user-images.githubusercontent.com/98351265/218359262-f4e5e43d-9f25-4e70-b2fb-4cb28fd6a1fe.png">
