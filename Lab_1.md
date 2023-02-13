@@ -7,3 +7,7 @@
 Before starting Lab 1, I had to install a few minor packages including but not limited to a few homebrew installations. I also made sure to read up on what the GHDL is and how the GTKwave application works tangent to GHDL. 
 
 Admittedly, I intially attempted to do the lab without downloading the required software becasue I believed I had everything I needed already. I not only had to install more packages, but also update much of the already owned software inbedded in X-Code since I work on a MacOS. 
+
+The first step towards any new program is the "Hello World" function, to which I followed easily with this result: 
+
+<img width="584" alt="Screenshot 2023-02-12 at 1 30 31 PM" src="https://user-images.githubusercontent.com/98351265/218359089-fbe51f3a-0103-40f9-b8e3-9810c851f795.png">
