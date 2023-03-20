@@ -18,4 +18,4 @@ My Project Site can be found [here!](https://sites.google.com/stevens.edu/first-
 ### Stevens Pledge
 I pledge by my honor that I have abided by the Stevens Code of Honor
 
-![Stevens Insignia](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F559d7d8ce4b05c2c3431c151%2F0x0.jpg%3Fformat%3Djpg%26crop%3D416%2C416%2Cx0%2Cy0%2Csafe%26height%3D200%26width%3D200%26fit%3Dbounds&imgrefurl=https%3A%2F%2Fwww.forbes.com%2Fcolleges%2Fstevens-institute-of-technology%2F&tbnid=Syrc_9CxABxGeM&vet=10CBAQxiAoA2oXChMIuPzOpdXw_AIVAAAAAB0AAAAAEAY..i&docid=Mu0jKZY_3XFbiM&w=200&h=200&itg=1&q=engineering%20stevens&ved=0CBAQxiAoA2oXChMIuPzOpdXw_AIVAAAAAB0AAAAAEAY)
+<img width="83" alt="Screenshot 2023-02-06 at 7 07 48 PM" src="https://user-images.githubusercontent.com/98351265/226483499-29057f10-3b8a-44e6-af9b-d2ff212f0e69.png">
