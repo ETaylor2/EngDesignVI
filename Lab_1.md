@@ -24,3 +24,5 @@ After completing the Hello World project, I decided to move onto the Half-Adder 
 Looking up multiple solutions online and seeing what my other peers have done for this example, I have tried to recreate the tff program. My results for the first trial are shown below:
 
 <img width="565" alt="Screenshot 2023-03-20 at 6 43 59 PM" src="https://user-images.githubusercontent.com/98351265/226482429-3a1f9313-362a-4831-a763-1823aaf76f1f.png">
+
+As you can see, even though my ghdl is downloaded I am still facing issues with running the program due to the command not being found. 
