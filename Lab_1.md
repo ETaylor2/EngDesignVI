@@ -15,7 +15,8 @@ The first step towards any new program is the "Hello World" function, to which I
 
 ## Half-Adder
 
-After completing the Hello World project, I decided to move onto the Half-Adder example. My first attempt led to the below screenshot. 
+After completing the Hello World project, I decided to move onto the Half-Adder example. My first attempt led to the below screenshots. 
+<img width="483" alt="Screenshot 2023-03-21 at 12 46 22 AM" src="https://user-images.githubusercontent.com/98351265/226520100-f0f0c283-ee3f-4309-9ab1-300c46f68ee4.png">
 
 <img width="800" alt="Screenshot 2023-02-12 at 1 24 25 PM" src="https://user-images.githubusercontent.com/98351265/218359262-f4e5e43d-9f25-4e70-b2fb-4cb28fd6a1fe.png">
 
