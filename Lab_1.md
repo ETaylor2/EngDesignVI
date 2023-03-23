@@ -33,7 +33,7 @@ After completing the Hello World project, I decided to move onto the Half-Adder 
 
 <img width="800" alt="Screenshot 2023-02-12 at 1 24 25 PM" src="https://user-images.githubusercontent.com/98351265/218359262-f4e5e43d-9f25-4e70-b2fb-4cb28fd6a1fe.png">
 
- # After doing the Tff I discovered conclusions that helped shape the rest of the lab.
+ #### After doing the Tff I discovered conclusions that helped shape the rest of the lab.
  
  <img width="1440" alt="Screenshot 2023-03-23 at 12 26 06 PM" src="https://user-images.githubusercontent.com/98351265/227270176-60bacb93-d707-45e4-a65d-ed0324af5b34.png">
 
