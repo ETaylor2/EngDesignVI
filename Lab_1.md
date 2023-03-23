@@ -37,4 +37,9 @@ After completing the Hello World project, I decided to move onto the Half-Adder 
  
  <img width="1440" alt="Screenshot 2023-03-23 at 12 26 06 PM" src="https://user-images.githubusercontent.com/98351265/227270176-60bacb93-d707-45e4-a65d-ed0324af5b34.png">
 
+## D Flip Flop
+
+<img width="1440" alt="Screenshot 2023-03-23 at 2 11 32 PM" src="https://user-images.githubusercontent.com/98351265/227307225-4b194490-4ed4-4e78-9e4f-728912a49646.png">
+
+
 
