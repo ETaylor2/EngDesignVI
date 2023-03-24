@@ -2,7 +2,7 @@
 # Lab 1 
  - I pledge by my honor that I have abided by the Stevens Honor System
  
-## Starting Up 
+## GHDL & GTKwave
 
 Before starting Lab 1, I had to install a few minor packages including but not limited to a few homebrew installations. I also made sure to read up on what the GHDL is and how the GTKwave application works tangent to GHDL. 
 
