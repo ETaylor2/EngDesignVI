@@ -6,19 +6,19 @@ Here you can find all things related to E 322
 My Project Site can be found [here!](https://sites.google.com/stevens.edu/first-site/home)
 ## Assignments
 
-  [Lab 1](https://github.com/ETaylor2/EngDesignVI/blob/main/Lab_1.md)
+  [Lab 1](https://github.com/ETaylor2/EngDesignVI/blob/main/Lab_1.md) - *GHDL & GTKwave*
   
-  [Lab 2](https://github.com/ETaylor2/EngDesignVI/blob/main/Lab_2.md)
+  [Lab 2](https://github.com/ETaylor2/EngDesignVI/blob/main/Lab_2.md) - *Command Line & Terminal*
   
-  [Lab 3](https://github.com/ETaylor2/EngDesignVI/blob/main/Lab_3.md)
+  [Lab 3](https://github.com/ETaylor2/EngDesignVI/blob/main/Lab_3.md) - *Exploring Python*
   
-  [Lab 4](https://github.com/ETaylor2/EngDesignVI/blob/main/Lab_4.md)
+  [Lab 4](https://github.com/ETaylor2/EngDesignVI/blob/main/Lab_4.md) - *Django & Flask*
   
-  [Lab 5](https://github.com/ETaylor2/EngDesignVI/blob/main/Lab_5.md)
+  [Lab 5](https://github.com/ETaylor2/EngDesignVI/blob/main/Lab_5.md) - *Paho & MQTT*
   
   [Lab 6](https://github.com/ETaylor2/EngDesignVI/blob/main/Lab_6.md) - *Node.js & Pystache*
   
-  [Lab 10](https://github.com/ETaylor2/EngDesignVI/blob/main/Lab_10.md)
+  [Lab 10](https://github.com/ETaylor2/EngDesignVI/blob/main/Lab_10.md) - *Blockchain*
   
   
 
