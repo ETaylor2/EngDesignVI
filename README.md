@@ -7,6 +7,7 @@ My Project Site can be found [here!](https://sites.google.com/stevens.edu/first-
 ## Assignments
 
   [Lab 1](https://github.com/ETaylor2/EngDesignVI/blob/main/Lab_1.md)
+  [Lab 2](https://github.com/ETaylor2/EngDesignVI/blob/main/Lab_2.md)
   
   
 
