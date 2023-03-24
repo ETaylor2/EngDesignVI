@@ -16,7 +16,7 @@ My Project Site can be found [here!](https://sites.google.com/stevens.edu/first-
   
   [Lab 5](https://github.com/ETaylor2/EngDesignVI/blob/main/Lab_5.md)
   
-  [Lab 6](https://github.com/ETaylor2/EngDesignVI/blob/main/Lab_6.md)
+  [Lab 6](https://github.com/ETaylor2/EngDesignVI/blob/main/Lab_6.md) ### Node.js & Pystache
   
   [Lab 10](https://github.com/ETaylor2/EngDesignVI/blob/main/Lab_10.md)
   
