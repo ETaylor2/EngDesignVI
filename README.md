@@ -6,6 +6,7 @@ Here you can find all things related to E 322
 My Project Site can be found [here!](https://sites.google.com/stevens.edu/first-site/home)
 ## My Lab Assignments
   **Keep in mind that all of my assignments have been completed and documented on Mac**
+  
   [Lab 1](https://github.com/ETaylor2/EngDesignVI/blob/main/Lab_1.md) - *GHDL & GTKwave*
   
   [Lab 2](https://github.com/ETaylor2/EngDesignVI/blob/main/Lab_2.md) - *Command Line & Terminal*
