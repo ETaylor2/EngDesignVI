@@ -19,3 +19,6 @@ Cat presents the contents of the file in commandline, not in the NANO GUI. The c
 
 <img width="387" alt="Screenshot 2023-04-02 at 11 37 02 PM" src="https://user-images.githubusercontent.com/98351265/229405773-a1bd3e9d-2afa-4534-8ddb-4d5517d6e91b.png">
 
+### Conclusion
+
+This lab really helped me understand the fundamentals with regards to the command line/ terminal. These fundamentals are extremely important as they are stepping stones towards learning more about your device and altering/observing the contents of it. 
