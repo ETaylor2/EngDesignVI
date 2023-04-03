@@ -7,4 +7,5 @@ The first few commands were straight forward and provided me with the intuitive 
 
 <img width="733" alt="Screenshot 2023-04-02 at 10 07 54 PM" src="https://user-images.githubusercontent.com/98351265/229395751-cfee3794-439e-441c-ad6c-c39c5036eabe.png">
 
+Gitclone, cd iot, and ls allows the user to copy files from Github, cd moves the user into the given directory, and ls shows the folders and files that are within the directory that the user is in. 
 
