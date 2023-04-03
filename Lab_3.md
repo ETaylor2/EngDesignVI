@@ -9,4 +9,6 @@ With that in mind, after I tried to run the first julian.py file, it ran but unf
 
 <img width="531" alt="Screenshot 2023-04-03 at 1 33 08 AM" src="https://user-images.githubusercontent.com/98351265/229419853-efb8c72d-3f98-4ba0-84a4-ce643c472bed.png">
 
+My first troubleshooting technique included trying to run other python files in the folder and there would be a missing file from the import.  See below.
 
+<img width="520" alt="Screenshot 2023-04-03 at 1 34 52 AM" src="https://user-images.githubusercontent.com/98351265/229420262-cfe1583d-40cd-47ad-81d7-9015a666c8d2.png">
