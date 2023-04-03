@@ -18,4 +18,4 @@ Where things start to get tricky is with the next line: Nano. What this does is 
 Cat presents the contents of the file in commandline, not in the NANO GUI. The cp and mv do similar things, the first copying one file's contents into another and the later command moving the contents from one file to the other (cp keeps the old file while mv does not). Rm simply removes a file.
 
 <img width="387" alt="Screenshot 2023-04-02 at 11 37 02 PM" src="https://user-images.githubusercontent.com/98351265/229405773-a1bd3e9d-2afa-4534-8ddb-4d5517d6e91b.png">
-<img width="387" alt="Screenshot 2023-04-02 at 11 37 02 PM" src="https://user-images.githubusercontent.com/98351265/229405973-15064e19-8917-4f22-81ce-cc6e85f1a804.png">
+
