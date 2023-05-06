@@ -23,4 +23,3 @@ Continued...
 ![Screenshot 2023-05-06 at 6 08 44 PM](https://user-images.githubusercontent.com/98351265/236648546-8d47c7a1-6e22-428c-80ff-88713c5eb687.png)
 
 ![Screenshot 2023-05-06 at 6 06 42 PM](https://user-images.githubusercontent.com/98351265/236648549-a8f3b1ca-df53-4a11-9bad-84c059ecd283.png)
-![Screenshot 2023-05-06 at 5 52 13 PM](https://user-images.githubusercontent.com/98351265/236648552-1aa20ac8-cc58-4a89-a210-f379dd4d8b10.png)
