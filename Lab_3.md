@@ -13,4 +13,8 @@ My first troubleshooting technique included trying to run other python files in 
 
 <img width="520" alt="Screenshot 2023-04-03 at 1 34 52 AM" src="https://user-images.githubusercontent.com/98351265/229420262-cfe1583d-40cd-47ad-81d7-9015a666c8d2.png">
 
-After some research, I learned that in order to download the required python packages, I had to update my pip package installer, which was outdated. I learned this because as I tried to use [pip install jdcal], my terminal would return [pip command not found]. I also figured out that I should be using pip3 instead of pip because im using python3, which sounds a lot more intuitive than I thought. 
+After some research, I learned that in order to download the required python packages, I had to update my pip package installer, which was outdated. I learned this because as I tried to use [pip install jdcal], my terminal would return [pip command not found]. I also figured out that I should be using pip3 instead of pip because im using python3, which sounds a lot more intuitive than I thought. I finally figured that I had to create a proper virtual environment by which to install jdcal, because installing jdcal the way I did before was not recognized by python3 even though it was in the correct directory. Alongside this, I updated pip3 and jdcal, which lead to the completion of the lab. 
+
+![Screenshot 2023-05-06 at 4 52 31 PM](https://user-images.githubusercontent.com/98351265/236646222-c7c0a6a1-d139-4771-92bd-e77cd018821a.png)
+
+
