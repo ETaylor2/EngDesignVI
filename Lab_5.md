@@ -16,3 +16,11 @@ I then tried setting up two different terminal windows, one for publishing, the 
 ![Screenshot 2023-05-06 at 6 06 51 PM](https://user-images.githubusercontent.com/98351265/236648340-e6209820-5bc0-450c-bb75-c84b83fca9b0.png)
 
 ![Screenshot 2023-05-06 at 6 06 42 PM](https://user-images.githubusercontent.com/98351265/236648346-8c2ee1aa-e377-4295-801b-214d2e5939f7.png)
+
+Continued...
+
+![Screenshot 2023-05-06 at 6 10 50 PM](https://user-images.githubusercontent.com/98351265/236648538-e8766ad5-640e-490f-85c1-439e4a78c80e.png)
+![Screenshot 2023-05-06 at 6 08 44 PM](https://user-images.githubusercontent.com/98351265/236648546-8d47c7a1-6e22-428c-80ff-88713c5eb687.png)
+
+![Screenshot 2023-05-06 at 6 06 42 PM](https://user-images.githubusercontent.com/98351265/236648549-a8f3b1ca-df53-4a11-9bad-84c059ecd283.png)
+![Screenshot 2023-05-06 at 5 52 13 PM](https://user-images.githubusercontent.com/98351265/236648552-1aa20ac8-cc58-4a89-a210-f379dd4d8b10.png)
